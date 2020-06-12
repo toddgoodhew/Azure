@@ -1,0 +1,24 @@
+azure:
+	ID: cmf-apr14dab-014@cloudd.biz
+	PW: #srft71DPOO!1
+	
+ServiceNow Integration
+Application (client) ID: da6b10e6-f189-45ab-8f31-87ffd23f493d
+Directory (tenant) ID: 0beadef8-62a0-420f-9180-2413c9883de9
+Object ID: 2fcb8ff7-28c1-4bd9-affd-042d87005e89
+Subscription ID: fa005cf1-cb45-4a61-a5d8-0dba75a7dda4
+Secret Key: -6_9_0iKuz_gyq4OkF8rGFHB1Npw0a_sFh
+
+
+Azure Service Principal Value	Azure Object
+Tenant ID						Directory ID
+Client ID						Application ID
+Secret Key						Secret Key
+Account ID						Subscription ID
+
+
+
+
+
+
+ 
